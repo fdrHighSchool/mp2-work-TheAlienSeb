@@ -6,4 +6,9 @@ Outline an algorithm to determine whether or not a number is prime.
 Think of the following method header:
 `public static boolean isPrime(int num)`
 
+
   * **YOUR WRITING HERE**
+  
+  If the num % 3 is > than 0 then it is a prime number
+  
+  if its true then it will return true as a boolean
