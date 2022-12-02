@@ -22,3 +22,4 @@
 
 3. What does DeMorgan's state and how did you prove it for the case above?
   * **YOUR WRITING HERE**
+The !not flips the condition and that is visible in the chart.
