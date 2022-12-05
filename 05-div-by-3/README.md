@@ -9,6 +9,15 @@ Think of the following method header:
 
   * **YOUR WRITING HERE**
   
-  If the num % 3 is > than 0 then it is a prime number
-  
-  if its true then it will return true as a boolean
+ Since a prime is any positive odd integer greater than 1 only divisible by 1 and itself. 
+ So we can run a for loop to divide the integer by an incrementing I and if it finishes the for loop and doesnt give a remainder of 0 when modulo by I it is a prime number. 11 follows this case, and 23 also follows this case.
+ 
+ public static boolean(int n){
+    for(int = 2; i<n; i++){
+       if(n%i == 0){
+       return false;
+       }
+       
+       
+       return true;
+ }
